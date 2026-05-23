@@ -1,0 +1,6 @@
+{
+  "name": "Nano Banana AI Workspace",
+  "description": "An interactive AI agent companion workspace featuring the modern Nano Banana voice interface, hands-free speech recognition control, and configurable Gemini agents.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
